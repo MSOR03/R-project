@@ -1,5 +1,6 @@
 ---
-title: "readme"
-output: html_document
+# R- Project
+##Script: Archivo final para entrega 1
+## Analysis: Archivo final para entrega 2
 ---
 
